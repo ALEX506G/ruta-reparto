@@ -1,6 +1,0 @@
-git clone https://github.com/tu-usuario/ruta-reparto.git
-cd ruta-reparto
-# Pega aquí los archivos del proyecto que te preparé
-git add .
-git commit -m "Subida inicial"
-git push origin main
